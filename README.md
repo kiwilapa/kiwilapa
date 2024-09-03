@@ -1,4 +1,4 @@
-Software Developer with over 2 years of experience, including the last 6 months as a team lead. Successfully led and developed projects with teams of minimum 3 members while also working independently on various tasks. Skilled in using different technologies to solve problems and deliver high-quality software. 
+ Full-Stack Developer with over 2 years of experience in building and maintaining web and mobile applications. Proficient in modern technologies and frameworks, focused on delivering clean, efficient, and scalable code.
 
 <!---
 kiwilapa/kiwilapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
